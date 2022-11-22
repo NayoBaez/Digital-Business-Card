@@ -2,7 +2,6 @@
   background: #d5d4d8;
   max-width: 315px;
   padding: 20px 0px;
-  color: #918e9b;
   border-radius: 0px 0px 10px 10px;
 }
 
@@ -10,4 +9,8 @@
   margin: 0 12px;
   font-size: 25px;
   color: #918e9b;
+}
+
+.Footer .fa-brands:hover {
+  color: #feeffa;
 }
