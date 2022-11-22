@@ -1,0 +1,56 @@
+.Info {
+  max-width: 315px;
+  background-color: #f5f5f5;
+  border-radius: 15px;
+  display: block;
+  margin: 0px auto;
+  font-family: Inter, sans-serif;
+  text-align: center;
+}
+
+.Info img {
+  max-width: 315px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.Info h1 {
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.Info h2 {
+  font-size: 13px;
+  color: #f47d27;
+  line-height: 15px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 3px;
+}
+
+.Info h3 {
+  font-size: 10px;
+  font-weight: 400;
+  text-align: center;
+  color: #4a4e74;
+}
+
+.Info .email--button {
+  align-items: center;
+  padding: 9px 21px 9px 15px;
+  margin: 10px 17px 0px 0px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+  background-color: white;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.Info .linkedin--button {
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  background-color: #5093e2;
+  color: white;
+  border-radius: 6px;
+  border: 1px solid;
+}
