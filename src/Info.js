@@ -12,12 +12,16 @@ export default function Info() {
       <h1>Naomi Bàez</h1>
       <h2>Frontend Developer</h2>
       <h3>naomi.website</h3>
-      <a href="mailto:info@nayobaez.com" target="_blank">
+      <a href="mailto:info@nayobaez.com" target="_blank" rel="noreferrer">
         <button className="email--button">
           <i className="fa-solid fa-envelope"></i> Email
         </button>
       </a>
-      <a href="https://www.linkedin.com/in/nayobaezfeliz/" target="_blank">
+      <a
+        href="https://www.linkedin.com/in/nayobaezfeliz/"
+        target="_blank"
+        rel="noreferrer"
+      >
         <button className="linkedin--button">
           <i className="fa-brands fa-linkedin"></i> LinkedIn
         </button>
