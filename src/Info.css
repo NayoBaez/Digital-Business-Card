@@ -34,25 +34,32 @@
   color: #4a4e74;
 }
 
-.Info .email--button {
+.Info .buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
   align-items: center;
-  padding: 9px 21px 9px 15px;
-  margin: 10px 17px 0px 0px;
+}
+
+.Info .email--button {
   border-radius: 6px;
+  padding: 9px 20px 9px 18px;
   border: 1px solid #d1d5db;
   background-color: white;
-  font-weight: 500;
   font-size: 14px;
   line-height: 16px;
+  margin-right: 17px;
 }
 
 .Info .linkedin--button {
-  align-items: center;
-  padding: 9px 13px 9px 11px;
   background-color: #5093e2;
+  padding: 9px 13px 9px 11px;
   color: white;
   border-radius: 6px;
-  border: 1px solid;
+  border: 1px solid #5093e2;
+  font-size: 14px;
+  line-height: 16px;
 }
 
 .Info .email--button:hover {
