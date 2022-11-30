@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/NayoBaez/Digital-Business-Card/master/GITHUB%20README%20BANNER%20BUSINESS%20CARD.png)](https://nayobaez.com)
 
-# MY PORTFOLIO
+# DIGITAL BUSINESS CARD
 
 Built this static digital businesscard as a solo challange of the Scrimba react course. The task was to recreate this digital card from a provided figma file and use basic React components and JSX to acheive the same UI and Design. 
 
